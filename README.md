@@ -28,7 +28,7 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from src.bertClassifier import *
 ```
 
-### Steps of Implementation
+### Implementation steps
 1.   Load Data
 2.   Process Data
 3.   Develop the Model (BERT)
