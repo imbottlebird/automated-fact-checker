@@ -5,6 +5,14 @@ automated fact-checker built based on BERT
 
 # Automated Fact-checker
 
+### Problem
+Build an ML system to verify the veracity of claims. Please clearly outline steps and demonstrate the performance of the final model.
+
+### Dataset
+PUBHEALTH dataset has an associated veracity label (true, false, unproven, mixture). Furthermore each instance in the dataset has an explanation text field. The explanation is a justification for which the claim has been assigned a particular veracity label.
+source: https://huggingface.co/datasets/health_fact
+
+
 ### Important Files:
 * BERT_fact_checker.ipynb : describes the steps of implementation
 * src/ bertClassifier.py : contains class and functions for initializing and training the BERT model
