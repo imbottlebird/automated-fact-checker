@@ -1,8 +1,3 @@
-# fact-checker
-automated fact-checker built based on BERT
-
-
-
 # Automated Fact-checker
 
 ### Problem
