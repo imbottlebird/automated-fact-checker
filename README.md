@@ -39,3 +39,5 @@ from src.bertClassifier import *
 4.   Predict & Evaluate (62% Acc.)
 5.   Data Augmentation + Predict & Evaluate (XX% Acc.)
 6.   ANNEX - Data visualization
+
+Please see 'BERT_fact_checker.ipynb' for details.
