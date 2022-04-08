@@ -1,7 +1,7 @@
 # Automated Fact-checker
 
 ### Problem
-Build an ML system to verify the veracity of claims. Please clearly outline steps and demonstrate the performance of the final model.
+Build an ML system to verify the veracity of claims.
 
 ### Dataset
 PUBHEALTH dataset has an associated veracity label (true, false, unproven, mixture). Furthermore each instance in the dataset has an explanation text field. The explanation is a justification for which the claim has been assigned a particular veracity label.
