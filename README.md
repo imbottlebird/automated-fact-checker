@@ -36,8 +36,9 @@ from src.bertClassifier import *
 1.   Load Data
 2.   Process Data
 3.   Develop the Model (BERT)
-4.   Predict & Evaluate (62% Acc.)
-5.   Data Augmentation + Predict & Evaluate (XX% Acc.)
-6.   ANNEX - Data visualization
+4.   Predict & Evaluate (63% Acc.)
+5.   Data Augmentation + Predict & Evaluate (65% Acc.)
+6.   Issues for consideration
+7.   ANNEX - Data visualization
 
 Please see 'BERT_fact_checker.ipynb' for details.
