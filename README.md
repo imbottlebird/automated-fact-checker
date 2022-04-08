@@ -5,6 +5,7 @@ Build an ML system to verify the veracity of claims.
 
 ### Dataset
 PUBHEALTH dataset has an associated veracity label (true, false, unproven, mixture). Each instance in the dataset has an explanation text field. The explanation is a justification for which the claim has been assigned a particular veracity label.
+
 source: https://huggingface.co/datasets/health_fact
 
 
