@@ -11,7 +11,7 @@ source: https://huggingface.co/datasets/health_fact
 
 ### Important Files:
 * BERT_fact_checker.ipynb : describes the steps of implementation
-* src/ bertClassifier.py : contains class and functions for initializing and training the BERT model
+* src/ bertClassifier.py : contains class and functions to initialize and train the BERT model
 
 
 ### Installed libraries
