@@ -9,7 +9,7 @@ PUBHEALTH dataset has an associated veracity label (true, false, unproven, mixtu
 source: https://huggingface.co/datasets/health_fact
 
 
-### Important Files:
+### Important files:
 * BERT_fact_checker.ipynb : describes the steps of implementation
 * src/ bertClassifier.py : contains class and functions to initialize and train the BERT model
 
@@ -34,8 +34,8 @@ from src.bertClassifier import *
 
 ### Implementation steps
 1.   Load Data
-2.   Process Data
-3.   Develop the Model (BERT)
+2.   Preprocess Data
+3.   Build the Model (BERT)
 4.   Predict & Evaluate (63% Acc.)
 5.   Data Augmentation + Predict & Evaluate (65% Acc.)
 6.   Issues for consideration
